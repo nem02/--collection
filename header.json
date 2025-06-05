@@ -1,19 +1,5 @@
 {
     "name": "~ collection",
     "symbol": "~",
-    "folder_order": "[ ]",
-    "folder_sort_key": 0,
-    "folder_sort_ascending": 1,
-    "entry_type": 0,
-    "page_url": "",
-    "header_url": "",
-    "data_url": "",
-    "compat_prefix": "~",
-    "last_update": 638845096992952437,
-    "org_name": null,
-    "org_symbol": null,
-    "ignore_folder_output": 54,
-    "is_external_sync": 0,
-    "output_dir": null,
-    "is_root_folder": 1
+    "data_url": "score.json"
 }
