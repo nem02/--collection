@@ -1,5 +1,5 @@
 {
     "name": "~ collection",
     "symbol": "~",
-    "data_url": "score.json"
+    "data_url": "data.json"
 }
